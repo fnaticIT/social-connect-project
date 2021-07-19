@@ -1,0 +1,49 @@
+.feed {
+  flex: 11.5;
+}
+
+.feedWrapper {
+  padding: 20px;
+}
+
+.head {
+  margin-top: 20px;
+  font-size: 24px;
+  color: #00cccc;
+}
+.q1 {
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  background: transparent;
+}
+
+.q1:hover{
+  color:blue
+}
+.q2 {
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  background: transparent;
+}
+.q2:hover{
+  color:blue
+}
+
+.ri{
+  border-radius: 6px;
+  border: 1px solid #ccffff;
+  background-color: #ccffff;
+  color: #00cccc;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 8px 16px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  transition: transform 80ms ease-in;
+  margin-left: 910px;
+  margin-top: 20px;
+}
+
